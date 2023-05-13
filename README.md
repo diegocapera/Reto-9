@@ -1,12 +1,12 @@
 # Reto-9
 
-**Punto 5
+Punto 5
 
 Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
 ![image](https://github.com/diegocapera/Reto-9/assets/124608110/f0362f1c-d42f-411e-8ca9-d1c882aecfb2)
  
- **Punto 6
+ Punto 6
  
  Crear un perfil en Linkedin.
  
